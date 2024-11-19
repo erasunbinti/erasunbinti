@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erasunbinti
 - 👀 I’m interested in javascript-sullstack
-- 🌱 I’m currently learning reactjs, nodejs
+- 🌱 I’m currently learning reactjs,nodejs
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 erasun699@gmail.com
 - 😄 Pronouns: she/her
